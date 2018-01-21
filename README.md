@@ -1,7 +1,7 @@
 This repository contains two exercises in recursion written in Ruby.
 
-The first one generates the Fibonacci sequence, first using iteration and second using recursion.
+The first one generates the Fibonacci sequence up to the nth position in the sequence, first using iteration and second using recursion.
 
-The second one is an implementation of the Merge Sort algorithm([Wikipedia](https://en.wikipedia.org/wiki/Merge_sort)).
+The second one is an implementation of the Merge Sort algorithm ([Wikipedia](https://en.wikipedia.org/wiki/Merge_sort)).
 
 From The Odin Project's [curriculum](https://www.theodinproject.com/courses/ruby-programming/lessons/recursion)
